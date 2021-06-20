@@ -1,0 +1,45 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, helvetica, sans-serif;
+}
+body {
+	background: #f1f1f1;
+}
+.btn a {
+	color: red;
+	text-decoration: none;
+}
+.menu {
+	background: white;
+	padding: 10px 0;
+	border-bottom: 1px solid black;
+}
+.menu ul {
+	margin-bottom: initial;
+}
+.main-content {
+	padding: 60px 0;
+}
+.box {
+	background: rgba(14, 160, 22, 0.418);
+	padding: 15px;
+	border-radius: 5px;
+}
+.footer {
+	padding: 15px;
+}
+.footer p {
+	margin-bottom: initial;
+	color: black;
+}
+.admin_title {
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 15px;
+	padding: 10px;
+}
+.admin_table_head {
+	text-align: center;
+}
